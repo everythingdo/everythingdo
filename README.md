@@ -4,7 +4,7 @@
   
 </div>
 
-<div align="center">
+<div align="center" width="500px">
   <img src="https://www.ghibli.jp/gallery/ponyo022.jpg" width="700px"/>
   <br>
  
