@@ -1,7 +1,5 @@
 ### <center>🌼E_VERYTHING_DO🌼</center>
 
-### <center>얼레벌레 코딩 공부</center>
-
 ##### Study About...
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
