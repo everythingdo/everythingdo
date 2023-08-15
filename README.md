@@ -1,5 +1,5 @@
-<div align="center" font-size="50px">
-  🌼E_VERYTHING_DO🌼
+<div align="center">
+  <big>🌼E_VERYTHING_DO🌼</big>
 </div>
 
 <br>
