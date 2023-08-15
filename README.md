@@ -2,9 +2,9 @@
   🌼E_VERYTHING_DO🌼
 </div>
 
-<img src="https://www.ghibli.jp/gallery/ponyo022.jpg" width="100px" align="center"/>
-
-<hr>
+<div align="center">
+  <img src="https://www.ghibli.jp/gallery/ponyo022.jpg" width="700px"/>
+</div>
 
 ### Study About...
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
