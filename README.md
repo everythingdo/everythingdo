@@ -1,10 +1,6 @@
 <div align="center">
  
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Hello%20Wrold!&fontSize=90)
-  
-  <br>
-  
-  🌼E_VERYTHING_DO🌼
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=🌼E_VERYTHING_DO🌼&fontColor=FF9E0F&fontSize=90)
   
 </div>
 
