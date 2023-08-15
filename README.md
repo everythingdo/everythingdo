@@ -1,6 +1,9 @@
-<div align="center" size="20px">
+<div align="center" size="50px">
   🌼E_VERYTHING_DO🌼
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://www.ghibli.jp/gallery/ponyo022.jpg" width="700px"/>
