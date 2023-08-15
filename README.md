@@ -1,4 +1,4 @@
-<div align="center" size="50px">
+<div align="center" font-size="50px">
   🌼E_VERYTHING_DO🌼
 </div>
 
