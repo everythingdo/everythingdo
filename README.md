@@ -1,4 +1,6 @@
-### <center>🌼E_VERYTHING_DO🌼</center>
+<div align="center" size="15px">
+  ### 🌼E_VERYTHING_DO🌼
+</div>
 
 ##### Study About...
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -12,4 +14,4 @@
 ##### My Status...
 
 ![everythingdo's github stats](https://github-readme-stats.vercel.app/api?username=everythingdo&show_icons=true)
-[![everythingdo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=everythingdo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/everythingdo)
+[![everythingdo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=everythingdo&show_icons=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&layout=compact)](https://github.com/everythingdo)
