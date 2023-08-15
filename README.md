@@ -19,5 +19,5 @@
 
 ### My Status...
 
-![everythingdo's github stats](https://github-readme-stats.vercel.app/api?username=everythingdo&show_icons=true&theme=tokyonight)
+![everythingdo's github stats](https://github-readme-stats.vercel.app/api?username=everythingdo&show_icons=true&theme=highcontast)
 [![everythingdo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=everythingdo&show_icons=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&layout=compact)](https://github.com/everythingdo)
