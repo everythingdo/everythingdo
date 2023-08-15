@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align="center">
-  <big>🌼E_VERYTHING_DO🌼</big>
+  🌼E_VERYTHING_DO🌼
 </div>
 
 <br>
@@ -20,5 +22,5 @@
 
 ### My Status...
 
-![everythingdo's github stats](https://github-readme-stats.vercel.app/api?username=everythingdo&show_icons=true)
+![everythingdo's github stats](https://github-readme-stats.vercel.app/api?username=everythingdo&show_icons=true&theme=merko)
 [![everythingdo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=everythingdo&show_icons=true&hide_border=true&title_color=FF9E0F&icon_color=FF9E0F&layout=compact)](https://github.com/everythingdo)
