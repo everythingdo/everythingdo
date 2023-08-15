@@ -1,6 +1,6 @@
 <div align="center">
  
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=🌼E_VERYTHING_DO🌼&fontColor=FF9E0F&fontSize=50&desc=얼레벌레%20코딩%20공부해보겠습니다&descSize=20&descAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=🌼E_VERYTHING_DO🌼&fontColor=FF9E0F&fontSize=50&desc=얼레벌레%20코딩%20공부해보겠습니다&descSize=20&descAlignY=-30)
   
 </div>
 
